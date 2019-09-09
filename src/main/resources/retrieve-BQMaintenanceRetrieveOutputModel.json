@@ -1,0 +1,68 @@
+{
+  "corporateLoanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "719771",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "713952",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "709346",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "corporateLoanNumber" : "corporateLoanNumber",
+    "customerCreditAssessmentReference" : "736296",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "740453",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "711176",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "716270",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "787695",
+    "collateralReference" : "774468",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "793333",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "711408",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "734678",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "maintenanceRetrieveActionTaskRecord" : {},
+  "maintenanceInstanceRecord" : {
+    "maintenanceReportType" : {
+      "penalties" : "penalties",
+      "loanFees" : "loanFees",
+      "collateralValuation" : "collateralValuation",
+      "loanFeeType" : "loanFeeType",
+      "loanTaxReport" : {}
+    }
+  },
+  "maintenanceRetrieveActionTaskReference" : "MRATR758269",
+  "maintenanceInstanceReport" : {
+    "maintenanceInstanceReportRecord" : {},
+    "maintenanceInstanceReportParameters" : "maintenanceInstanceReportParameters",
+    "maintenanceInstanceReportType" : "maintenanceInstanceReportType",
+    "maintenanceInstanceReport" : {}
+  },
+  "maintenanceInstanceAnalysis" : {
+    "maintenanceInstanceAnalysisRecord" : {},
+    "maintenanceInstanceAnalysisReport" : {},
+    "maintenanceInstanceAnalysisReportType" : "maintenanceInstanceAnalysisReportType",
+    "maintenanceInstanceAnalysisParameters" : "maintenanceInstanceAnalysisParameters"
+  },
+  "maintenanceRetrieveActionResponse" : "maintenanceRetrieveActionResponse"
+}

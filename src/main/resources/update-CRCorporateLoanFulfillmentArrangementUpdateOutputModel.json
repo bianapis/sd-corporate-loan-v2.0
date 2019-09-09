@@ -1,0 +1,47 @@
+{
+  "corporateLoanFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "corporateLoanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "756139",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "716084",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "720978",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "corporateLoanNumber" : "corporateLoanNumber",
+    "customerCreditAssessmentReference" : "745022",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "714106",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "765931",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "717436",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "770453",
+    "collateralReference" : "701337",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "708564",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "736003",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "747749",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "corporateLoanFulfillmentArrangementUpdateActionTaskReference" : "CLFAUATR779346",
+  "updateResponseRecord" : {}
+}

@@ -1,0 +1,48 @@
+{
+  "withdrawalInstanceAnalysis" : {
+    "withdrawalInstanceAnalysisParameters" : "withdrawalInstanceAnalysisParameters",
+    "withdrawalInstanceAnalysisReportType" : "withdrawalInstanceAnalysisReportType",
+    "withdrawalInstanceAnalysisReport" : {},
+    "withdrawalInstanceAnalysisRecord" : {}
+  },
+  "corporateLoanFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "753486",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "customerReference" : "758203",
+    "loanAccessTerms" : "loanAccessTerms",
+    "corporateLoanNumber" : "corporateLoanNumber",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "partyReference" : "739035"
+  },
+  "withdrawalRetrieveActionResponse" : "withdrawalRetrieveActionResponse",
+  "withdrawalRetrieveActionTaskRecord" : {},
+  "withdrawalInstanceReport" : {
+    "withdrawalInstanceReportType" : "withdrawalInstanceReportType",
+    "withdrawalInstanceReport" : {},
+    "withdrawalInstanceReportParameters" : "withdrawalInstanceReportParameters",
+    "withdrawalInstanceReportRecord" : {}
+  },
+  "withdrawalInstanceRecord" : {
+    "paymentTransaction" : {
+      "paymentTransactionPayeeReference" : "771774",
+      "paymentTransactionPayeeBankReference" : "765951",
+      "paymentTransactionFeeType" : "paymentTransactionFeeType",
+      "paymentTransactionFeeCharge" : "USD 250",
+      "paymentTransactionPaymentPurpose" : "paymentTransactionPaymentPurpose",
+      "paymentTransactionStatus" : "paymentTransactionStatus",
+      "paymentTransactionPayeeAccountReference" : "760120",
+      "paymentTransactionType" : "paymentTransactionType",
+      "paymentTransactionDate" : "09-22-2018",
+      "paymentTransactionAmount" : "USD 250",
+      "paymentTransactionPaymentMechanism" : "paymentTransactionPaymentMechanism",
+      "paymentTransactionBankBranchLocationReference" : "745615"
+    }
+  },
+  "withdrawalRetrieveActionTaskReference" : "WRATR704907"
+}

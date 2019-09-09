@@ -1,0 +1,53 @@
+{
+  "interestRetrieveActionResponse" : "interestRetrieveActionResponse",
+  "corporateLoanFulfillmentArrangementInstanceRecord" : {
+    "loanType" : "loanType",
+    "interestType" : "interestType",
+    "corporateLoanNumber" : "corporateLoanNumber",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "loanApplicableRate" : "loanApplicableRate",
+    "loanAmount" : "USD 250",
+    "productInstanceReference" : "768469",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "loanRateType" : "loanRateType",
+    "loanMaturityDate" : "09-22-2018",
+    "loanOriginationDate" : "09-22-2018",
+    "loanCurrency" : "USD"
+  },
+  "interestRetrieveActionTaskReference" : "IRATR705816",
+  "interestInstanceRecord" : {
+    "interestRateConfiguration" : {
+      "interestRate" : "interestRate",
+      "interestRateType" : "interestRateType"
+    },
+    "interestApplicationRecord" : {
+      "interestTransaction" : {
+        "transactionInterestCharge" : "USD 250",
+        "transactionRateType" : "transactionRateType",
+        "transactionDescription" : "transactionDescription"
+      },
+      "interestAccrualAmount" : {
+        "interestAccrualCharge" : "USD 250",
+        "interestAccrualType" : "interestAccrualType"
+      }
+    },
+    "interestRateType" : "interestRateType",
+    "interestRateApplicationSchedule" : "interestRateApplicationSchedule"
+  },
+  "interestRetrieveActionTaskRecord" : {},
+  "interestInstanceReport" : {
+    "interestInstanceReportRecord" : {},
+    "interestInstanceReportParameters" : "interestInstanceReportParameters",
+    "interestInstanceReportType" : "interestInstanceReportType",
+    "interestInstanceReport" : {}
+  },
+  "interestInstanceAnalysis" : {
+    "interestInstanceAnalysisRecord" : {},
+    "interestInstanceAnalysisParameters" : "interestInstanceAnalysisParameters",
+    "interestInstanceAnalysisReportType" : "interestInstanceAnalysisReportType",
+    "interestInstanceAnalysisReport" : {}
+  }
+}

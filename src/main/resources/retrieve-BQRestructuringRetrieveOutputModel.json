@@ -1,0 +1,64 @@
+{
+  "corporateLoanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "786423",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "760762",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "770976",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "corporateLoanNumber" : "corporateLoanNumber",
+    "customerCreditAssessmentReference" : "700561",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "716760",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "753806",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "705320",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "787758",
+    "collateralReference" : "774378",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "708462",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "791351",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "798726",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "restructuringInstanceReport" : {
+    "restructuringInstanceReport" : {},
+    "restructuringInstanceReportRecord" : {},
+    "restructuringInstanceReportType" : "restructuringInstanceReportType",
+    "restructuringInstanceReportParameters" : "restructuringInstanceReportParameters"
+  },
+  "restructuringInstanceAnalysis" : {
+    "restructuringInstanceAnalysisParameters" : "restructuringInstanceAnalysisParameters",
+    "restructuringInstanceAnalysisRecord" : {},
+    "restructuringInstanceAnalysisReport" : {},
+    "restructuringInstanceAnalysisReportType" : "restructuringInstanceAnalysisReportType"
+  },
+  "restructuringRetrieveActionTaskRecord" : {},
+  "restructuringRetrieveActionResponse" : "restructuringRetrieveActionResponse",
+  "restructuringInstanceRecord" : {
+    "restructuringEvaluation" : "restructuringEvaluation",
+    "restructuringWriteDown" : "restructuringWriteDown",
+    "restructuringTask" : "restructuringTask"
+  },
+  "restructuringRetrieveActionTaskReference" : "RRATR745420"
+}

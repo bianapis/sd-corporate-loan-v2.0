@@ -1,0 +1,36 @@
+{
+  "corporateLoanFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "720160",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "customerReference" : "750430",
+    "corporateLoanNumber" : "corporateLoanNumber",
+    "partyReference" : "795354",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "disbursementInstanceRecord" : {
+    "disbursementValueDate" : "09-22-2018",
+    "disbursementPayeeProductInstanceReference" : "764391",
+    "disbursementPayeeBankReference" : "794579",
+    "disbursementCurrency" : "USD",
+    "disbursementPayeeReference" : "701882",
+    "disbursementAmount" : "USD 250"
+  },
+  "disbursementRetrieveActionResponse" : "disbursementRetrieveActionResponse",
+  "disbursementInstanceAnalysis" : {
+    "disbursementInstanceAnalysisReport" : {},
+    "disbursementInstanceAnalysisRecord" : {},
+    "disbursementInstanceAnalysisParameters" : "disbursementInstanceAnalysisParameters",
+    "disbursementInstanceAnalysisReportType" : "disbursementInstanceAnalysisReportType"
+  },
+  "disbursementInstanceReport" : {
+    "disbursementInstanceReportType" : "disbursementInstanceReportType",
+    "disbursementInstanceReportRecord" : {},
+    "disbursementInstanceReportParameters" : "disbursementInstanceReportParameters",
+    "disbursementInstanceReport" : {}
+  },
+  "disbursementRetrieveActionTaskRecord" : {},
+  "disbursementRetrieveActionTaskReference" : "DRATR774218"
+}

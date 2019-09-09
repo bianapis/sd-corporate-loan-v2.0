@@ -1,0 +1,15 @@
+{
+  "corporateLoanFulfillmentArrangementInitiateActionReference" : "CLFAIAR736691",
+  "corporateLoanFulfillmentArrangementInstanceReference" : "CLFAIR757597",
+  "corporateLoanFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "777375",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "customerCommentary" : "customerCommentary"
+  },
+  "corporateLoanFulfillmentArrangementInstanceStatus" : "corporateLoanFulfillmentArrangementInstanceStatus",
+  "corporateLoanFulfillmentArrangementInitiateActionRecord" : {}
+}
